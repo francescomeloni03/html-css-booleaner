@@ -1,0 +1,54 @@
+header{
+    background-image: url("/Users/francesco/Desktop/html-css-booleaner/img/pattern.png");
+    background-repeat: repeat-x;
+    background-color: blue;
+    height: 180px;
+    
+    
+}
+ 
+#immagine1{
+    width: 400px;
+    height: 250px;
+}
+
+
+h1{
+    font-size:xx-large;
+}
+
+#scritta{
+    color: aqua;
+}
+
+#interascritta{
+    color: gray;
+}
+
+#scritta2{
+    background-color: yellow;
+}
+
+th{
+    text-align: left;
+    background-color: dodgerblue;
+    color: white;
+}
+
+.color{
+    background-color: lightblue;   
+}
+
+p{
+    font-size: large;
+}
+
+
+.immagine23{
+    height: 450px;
+}
+
+#scritta3{
+    background-color: yellow;
+}
+
