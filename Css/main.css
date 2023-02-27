@@ -21,7 +21,7 @@ h1{
     color: aqua;
 }
 
-#interascritta{
+.interascritta{
     color: gray;
 }
 
@@ -51,4 +51,29 @@ p{
 #scritta3{
     background-color: yellow;
 }
+
+#foto1{
+    background-image: url(/Users/francesco/Desktop/html-css-booleaner/img/monitor.jpg);
+    
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 270px;
+    height: 210px;
+    color: white;
+    
+}
+
+
+#foto2{
+    background-image: url(/Users/francesco/Desktop/html-css-booleaner/img/graph.jpg);
+    background-repeat: no-repeat;
+    text-align: left;
+    width: 270px;
+    height: 300px;
+    color: white;
+    
+    
+    
+}
+
 
