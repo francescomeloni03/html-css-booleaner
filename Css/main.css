@@ -45,7 +45,7 @@ p{
 
 
 .immagine23{
-    height: 450px;
+    height: 300px;
 }
 
 #scritta3{
@@ -77,3 +77,9 @@ p{
 }
 
 
+div{
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
